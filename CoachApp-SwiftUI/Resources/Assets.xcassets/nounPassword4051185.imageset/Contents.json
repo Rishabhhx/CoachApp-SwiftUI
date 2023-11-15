@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "scale" : "1x",
+      "idiom" : "universal",
+      "filename" : "nounPassword4051185.png"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "nounPassword4051185@2x.png",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "3x",
+      "filename" : "nounPassword4051185@3x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

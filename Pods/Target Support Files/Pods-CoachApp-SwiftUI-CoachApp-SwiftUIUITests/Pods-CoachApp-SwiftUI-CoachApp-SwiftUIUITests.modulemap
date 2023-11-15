@@ -1,0 +1,6 @@
+framework module Pods_CoachApp_SwiftUI_CoachApp_SwiftUIUITests {
+  umbrella header "Pods-CoachApp-SwiftUI-CoachApp-SwiftUIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

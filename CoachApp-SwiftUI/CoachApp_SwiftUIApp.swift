@@ -13,7 +13,7 @@ struct CoachApp_SwiftUIApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingScreen()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
